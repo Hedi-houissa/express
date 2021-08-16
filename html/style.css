@@ -1,0 +1,38 @@
+body {
+  padding: 2% 30%;
+}
+#nav {
+  padding: 0px 20px;
+  margin: 50px;
+  display: flex;
+  flex-direction: row;
+  text-decoration: none;
+}
+a {
+  text-decoration: none;
+  color: blue;
+  font-size: 20px;
+  margin: 0px 10px;
+}
+a:hover {
+  color: brown;
+}
+p {
+  margin: 50px;
+  padding: 20px 50px;
+  background-color: #6ec8c7;
+  border-radius: 30px;
+  color: #343a40;
+  font-size: 20px;
+}
+h1 {
+  margin: 50px;
+  padding: 0px 20px;
+}
+span{
+    font-weight: bold;
+}
+button{
+    color: brown;
+    background: rgb(18, 163, 30)   ;
+}
